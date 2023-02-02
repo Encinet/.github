@@ -8,13 +8,13 @@
 ![markdown](https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-### Learning & Using
+### The language we're learning and using
 
 ![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![kotlin](https://img.shields.io/badge/-kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=white)
 ![javascript](https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=javascript&logoColor=white)
 
-### Representative Work
+### Our representative works
 [Minecraft Mik Server](https://mikwiki.netlify.app/)
 
 [Nirvana](https://github.com/encinet/nirvana)
