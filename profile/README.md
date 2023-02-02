@@ -1,6 +1,6 @@
 # Hey Guys! 👋
 ### The tools we're using
-![idea](https://img.shields.io/badge/-pycharm-black?style=for-the-badge&logo=pycharm&logoColor=white)
+![idea](https://img.shields.io/badge/-idea-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![maven](https://img.shields.io/badge/-maven-black?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![gradle](https://img.shields.io/badge/-gradle-black?style=for-the-badge&logo=gradle&logoColor=white)
 ![git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git&logoColor=white)
@@ -12,6 +12,13 @@
 
 ![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![kotlin](https://img.shields.io/badge/-kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=white)
+![javascript](https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=javascript&logoColor=white)
 
+### Representative Work
+[Minecraft Mik Server](https://mikwiki.netlify.app/)
+
+[Nirvana](https://github.com/encinet/nirvana)
+
+[And more...](https://github.com/encinet)
 
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=Encinet)
