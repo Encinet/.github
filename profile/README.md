@@ -12,7 +12,6 @@
 
 ![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![kotlin](https://img.shields.io/badge/-kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=white)
-### Visitors
 
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=Encinet)
