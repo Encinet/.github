@@ -18,8 +18,8 @@
 ### Our representative works
 
 - [Minecraft Mik Server](https://mikwiki.netlify.app/)
-- [Nirvana](https://github.com/encinet/nirvana)
-- [And more...](https://github.com/encinet)
+- [Aliwaka](https://github.com/encinet/aliwaka)
+- And more...
 
 ---
 
